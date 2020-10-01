@@ -9,5 +9,5 @@ Hotspot config file can be in a directory of you choice. Go to Configuration Tab
 Alternatively, add older hotspot.exe and hotfloorplan.exe along with the hotspot config file and select the folder as hotspot path in the configuration path.    
 More info soon available.
 
-This program is distributed in the hope that it will be useful,
+This program is distributed as proof-of-concept for SoC TDM Test Scheduling, in the hope that it will be useful,
 but WITHOUT ANY WARRANTY;
