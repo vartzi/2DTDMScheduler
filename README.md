@@ -17,4 +17,4 @@ More info soon available.
 This program is distributed as proof-of-concept for SoC TDM Test Scheduling, in the hope that it will be useful,
 but WITHOUT ANY WARRANTY;
 
-Find also in: https://gitlab.com/tdms-fork-group/2DTDMScheduler
+Additional URL: https://gitlab.com/tdms-fork-group/2DTDMScheduler
